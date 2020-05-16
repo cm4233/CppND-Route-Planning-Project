@@ -1,4 +1,5 @@
 # Route Planning Project
+This project finds the shortest route between two locations on a map using the A* search algorithm. Map data is from the OpenStreetMap project. The shortest path and map are rendered using the io2d graphics library.
 
 <img src="run.png" width="901" height="431" />
 
